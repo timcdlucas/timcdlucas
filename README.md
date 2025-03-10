@@ -15,7 +15,7 @@ Please feel free to email me to discuss stats, modelling, R or anything else.
 If you are a student looking for opportunities such as masters or PhD projects please email to say hello. 
 There are studentships or pre-doctoral fellowships we could develop a project for. 
 My address is tim.lucas — at — le.ac.uk. 
-Or you can say hello on blue [@StatsForBios]([www.twitter.com/statsforbios](https://bsky.app/profile/statsforbios.bsky.social)).
+Or you can say hello on bluesky [@StatsForBios]([www.twitter.com/statsforbios](https://bsky.app/profile/statsforbios.bsky.social)).
 
 
 
